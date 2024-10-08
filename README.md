@@ -8,8 +8,8 @@ A simple REST API to manage products and orders, built with Go v1.23 (Recommend 
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/fachriyanh/go-product-order.git
-    cd go-product-order
+    git clone https://github.com/fachriyanh/simple-ecommerce.git
+    cd simple-ecommerce
     ```
 
 3. Install the required Go modules:
